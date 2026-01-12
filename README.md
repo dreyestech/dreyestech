@@ -1,1 +1,1 @@
-<img src="DReyesAnime.png" width="100%" />
+<img src="DReyesAnime.png" width="50%" />
